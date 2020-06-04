@@ -5,8 +5,8 @@ import tailwindLogo from './tailwindcss-logo.svg';
 
 function App() {
   return (
-    <div className='App bg-yellow-100 text-gray-900 leading-normal min-h-screen flex flex-col justify-center items-center'>
-      <header className='container p-8 text-center'>
+    <div className='App container p-8 text-center min-h-screen flex flex-col justify-center items-center'>
+      <header className=''>
         <h1 className='text-4xl leading-normal tracking-tight text-center mb-4'>
           React + Tailwind CSS Boilerplate
         </h1>
