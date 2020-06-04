@@ -14,7 +14,7 @@ function App() {
           href='https://github.com/vikasbhvsr/react-tailwindcss-boilerplate'
           target='_blank'
           rel='noopener noreferrer'
-          className='border-2 border-blue-700 text-blue-700 hover:text-white hover:bg-blue-700 rounded text-lg inline-flex justify-center items-center space-x-1 px-6 py-3 transition duration-150'
+          className='border-2 border-blue-700 text-blue-700 hover:text-white hover:bg-blue-700 rounded text-lg inline-flex justify-center items-center space-x-2 px-6 py-3 transition duration-150'
         >
           <span>Get Started</span>
           <svg
