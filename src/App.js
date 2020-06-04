@@ -30,7 +30,7 @@ function App() {
           </svg>
         </a>
         <div className='grid grid-cols-2 align-middle justify-center items-center gap-4 text-center'>
-          <div>
+          <div className="space-y-2">
             <img
               src={reactLogo}
               className='App-logo w-64 h-64 text-center mx-auto block'
@@ -56,7 +56,7 @@ function App() {
               </svg>
             </a>
           </div>
-          <div>
+          <div className="space-y-2">
             <img
               src={tailwindLogo}
               className='App-logo w-64 h-64 text-center mx-auto block'
